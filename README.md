@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JohnCon1994
+- 👀 I’m interested in rock climbing and video games
+- 🌱 I’m currently learning web dev from the odin project
